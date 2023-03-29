@@ -1,0 +1,59 @@
+@font-face {
+    font-family: gta;
+    src: url(fonte/pricedown\ bl.otf);
+}
+
+
+h1{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 5px 6px 3px black;
+    -webkit-text-stroke: 1px black;
+
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-size: 34px;
+    text-shadow: 5px 6px 3px black;
+    -webkit-text-stroke: 1px black;
+
+}
+p{
+    font-size: 30px;
+}
+
+
+body
+{
+      background-image: url(Rockstar/0e68de59b4040da71ee088c3718a1a27.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      font-family: 'gta'; 
+      background-attachment: fixed;
+    }
+
+
+    .section{
+        line-height: 1.5;
+        padding: 40px;
+        border: 2px solid #ffffff;
+        margin: 50px;
+        background-color: #00000080;
+        color: white;
+        box-shadow: 0 0 40px #ffffff;
+        display: block;
+        text-align: center;
+        font-size: 25px;
+        -webkit-text-stroke: 1px black;
+        text-shadow: 5px 6px 3px black;
+       
+    }
+
+
+
+
+
+
